@@ -46,6 +46,7 @@
     {"id":{"name":"Normal_Bullet","path":"objects/Normal_Bullet/Normal_Bullet.yy",},"order":1,},
     {"id":{"name":"Background_Music","path":"sounds/Background_Music/Background_Music.yy",},"order":0,},
     {"id":{"name":"Japan_Sprite","path":"sprites/Japan_Sprite/Japan_Sprite.yy",},"order":9,},
+    {"id":{"name":"Sprite42","path":"sprites/Sprite42/Sprite42.yy",},"order":42,},
     {"id":{"name":"Sprite38","path":"sprites/Sprite38/Sprite38.yy",},"order":38,},
     {"id":{"name":"Selection_Ships","path":"rooms/Selection_Ships/Selection_Ships.yy",},"order":3,},
     {"id":{"name":"Sprite31","path":"sprites/Sprite31/Sprite31.yy",},"order":30,},
